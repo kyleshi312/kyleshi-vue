@@ -1,0 +1,7 @@
+{
+  "name": "generator-kyleshi-vue",
+  "dependencies": {
+    "yeoman-generator": "4.0"
+  },
+  "license": "ISC"
+}
